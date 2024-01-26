@@ -1,0 +1,2 @@
+# SystemyOperacyjne
+Skrypt na zalliczenie
