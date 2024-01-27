@@ -5,8 +5,6 @@ W ramach zaliczenia prosty skrypt do podmiany tekstu w plikach tekstowych. Np za
 
 W plikku zamiana.vbs podajemy ścieżkę i co zamieniamy na co.
 
-Na wypadek jak by plik z rozszeżeniem vbs nie przeszedł mailem przesyłam również w postaci .txt, wystarczy zmienić rozszeżenie na .vbs
-
-Jeśli jest to za mało na zaliczenie (3 to też zaliczenie:)) proszę o kontakt, coś jeszczę dopiszę.
-
+W wersji python można podać parametry bezpośrednio z konsoli w kolejności: ścieżka, słowo do zamiany, na jakie słowo wymieniamy.
+np. py -3 plik.txt stare nowe
 Pozdrawiam
