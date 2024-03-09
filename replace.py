@@ -29,7 +29,8 @@ def create_backup_folder() -> str:
 
 
 def check_how_many_files(directory: str):
-    """Check how backups is already created, and if there are more than five remove the oldest one."""
+    """Check how backups is already created,
+    and if there are more than five remove the oldest one."""
     file_list = os.listdir(directory)
     file_list.sort()
     if len(file_list) > 5:
